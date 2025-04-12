@@ -6,6 +6,7 @@ This repository contains a Power BI dashboard project titled "Data Warehouse Ins
 DW.pbix – The main Power BI dashboard file.
 
 **💡 Dashboard Overview**
+
 The Data Warehouse Dashboard is designed to present data-driven insights through:
 
 📈 Interactive visualizations
@@ -21,6 +22,7 @@ The Data Warehouse Dashboard is designed to present data-driven insights through
 It supports data-driven decisions by showcasing meaningful metrics across various departments or categories, depending on the underlying data model.
 
 **🔍 Key Features**
+
 Dynamic Filters & Slicers for granular analysis
 
 KPI Visuals to track performance against goals
@@ -35,6 +37,7 @@ Custom DAX Measures for calculated insights
 
 
 **🛠️ Technologies Used**
+
 Power BI Desktop
 
 DAX (Data Analysis Expressions)
