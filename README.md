@@ -1,4 +1,4 @@
-**📊 Power BI Dashboard: **
+**📊 Power BI Dashboard:**
 Data Warehouse Insights
 This repository contains a Power BI dashboard project titled "Data Warehouse Insights", which provides a comprehensive analytical view of organizational data sourced from a data warehouse. The dashboard includes visually appealing and interactive reports that help in monitoring key performance indicators and deriving business insights.
 
