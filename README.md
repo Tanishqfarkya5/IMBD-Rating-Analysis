@@ -1,51 +1,30 @@
-**📊 Power BI Dashboard:**
-Data Warehouse Insights
-This repository contains a Power BI dashboard project titled "Data Warehouse Insights", which provides a comprehensive analytical view of organizational data sourced from a data warehouse. The dashboard includes visually appealing and interactive reports that help in monitoring key performance indicators and deriving business insights.
+**🎬 Power BI Dashboard: IMDb Ratings Analysis**
+This repository contains a Power BI dashboard project focused on analyzing IMDb movie ratings. The dashboard offers a comprehensive, visual overview of movie trends, ratings distribution, top genres, and performance across different dimensions.
 
-**🧾 File Included**
-DW.pbix – The main Power BI dashboard file.
+**📁 File Included**
+DW.pbix – Power BI file for the IMDb Ratings Analysis Dashboard.
 
-**💡 Dashboard Overview**
+**🎥 Project Overview**
+The IMDb Ratings Dashboard is designed to help users explore and understand trends in movie ratings using interactive visualizations. It enables quick identification of top-rated films, popular genres, and year-wise performance, offering valuable insights for film enthusiasts, analysts, or media professionals.
 
-The Data Warehouse Dashboard is designed to present data-driven insights through:
+**📊 Key Features**
+⭐ Average Ratings Overview: Summary of overall rating trends
 
-📈 Interactive visualizations
+🎭 Genre-wise Analysis: Discover which genres consistently perform better
 
-📊 Summary-level KPIs
+📅 Year-wise Release Insights: Visual trends of ratings over the years
 
-🧩 Drill-down capability for detailed exploration
+🏆 Top 10 Movies by Rating: Quick access to top-rated films
 
-📆 Time-based trend analysis
+🌍 Country-wise Rating Distribution (if available in data)
 
-🗂️ Categorical comparisons
+🔍 Interactive filters and slicers for deeper exploration
 
-It supports data-driven decisions by showcasing meaningful metrics across various departments or categories, depending on the underlying data model.
-
-**🔍 Key Features**
-
-Dynamic Filters & Slicers for granular analysis
-
-KPI Visuals to track performance against goals
-
-Line & Bar Charts for trend analysis
-
-Tables & Cards for snapshot summaries
-
-Relationship Modeling for linking multiple datasets
-
-Custom DAX Measures for calculated insights
-
-
-**🛠️ Technologies Used**
-
+**🛠️ Built With**
 Power BI Desktop
 
-DAX (Data Analysis Expressions)
+DAX for calculated metrics
 
-Power Query
+Power Query for data transformation
 
-Data Modeling
-
-Data Warehouse/Data Mart (source)
-
-
+IMDb movie dataset (structured in a data warehouse or flat files)
