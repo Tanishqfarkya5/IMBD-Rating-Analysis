@@ -32,6 +32,8 @@ Tables & Cards for snapshot summaries
 Relationship Modeling for linking multiple datasets
 
 Custom DAX Measures for calculated insights
+
+
 **🛠️ Technologies Used**
 Power BI Desktop
 
